@@ -1,3 +1,3 @@
-Country1,ountry2,Score1,Score2,Goals1,Times1,Goals2,Times2,Time,Date,Stadium,Attendance,Round
-United States,Belgium,3,0,"Bart McGhee,Tom Florie,Bert Patenaude","23,45,69",18:30,13 07 1930,Estadio Gran Parque Central,18346,Group Stage
-France,Mexico,4,1,"Lucien Laurent,Marcel Langiller,André Maschinot,André Maschinot","19,40,43,87",Juan Carreño,70,18:00,13 07 1930,Estadio Pocitos,4444,Group Stage
+Country1,Country2,Score1,Score2,Goals1,Times1,Goals2,Times2,Time,Date,Stadium,Attendance,Round
+United States,Belgium,3,0,"Bart McGhee,Tom Florie,Bert Patenaude","23,45,69","", "",18:30,13 07 1930,Estadio Gran Parque Central,18346,Group Stage
+France,Mexico,4,1,"Lucien Laurent,Marcel Langiller,André Maschinot,André Maschinot","19,40,43,87","Juan Carreño","70",18:00,13 07 1930,Estadio Pocitos,4444,Group Stage
