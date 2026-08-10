@@ -1,5 +1,5 @@
-Country1,Country2,Score1,Score2,Goals1,Times1,Goals2,Times2,Time,Date,Stadium,Attendance,Round
-United States,Belgium,3,0,"Bart McGhee,Tom Florie,Bert Patenaude","23,45,69","", "",18:30,13/07/1930,Estadio Gran Parque Central,18346,Group Stage
-France,Mexico,4,1,"Lucien Laurent,Marcel Langiller,André Maschinot,André Maschinot","19,40,43,87","Juan Carreño","70",18:00,13/07/1930,Estadio Pocitos,4444,Group Stage
-Yugoslavia,Brazil,2,1,"Aleksandar Tirnanić,Ivan Bek","21,30",Preguinho,62,15:45,14/07/1930,Estadio Gran Parque Central,24059,Group Stage
-Romania,Peru,3,1,"Adalbert Deșu,Constantin Stanciu,Nicolae Kovács","1,79,89",Luis de Souza Ferreira,75,17:50,14/07/2026,Estadio Pocitos,2549,Group Stage
+Country1,Country2,Score1,Score2,Goals1,Times1,Goals2,Times2,Time,Date,Stadium,Attendance,Round,Referee
+United States,Belgium,3,0,"Bart McGhee,Tom Florie,Bert Patenaude","23,45,69","", "",18:30,13/07/1930,Estadio Gran Parque Central,18346,Group Stage,Jose Macias
+France,Mexico,4,1,"Lucien Laurent,Marcel Langiller,André Maschinot,André Maschinot","19,40,43,87","Juan Carreño","70",18:00,13/07/1930,Estadio Pocitos,4444,Group Stage,Domingo Lombardi
+Yugoslavia,Brazil,2,1,"Aleksandar Tirnanić,Ivan Bek","21,30",Preguinho,62,15:45,14/07/1930,Estadio Gran Parque Central,24059,Group Stage,Anibal Tejada
+Romania,Peru,3,1,"Adalbert Deșu,Constantin Stanciu,Nicolae Kovács","1,79,89",Luis de Souza Ferreira,75,17:50,14/07/2026,Estadio Pocitos,2549,Group Stage,Alberto Warnken
