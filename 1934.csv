@@ -1,4 +1,9 @@
 Country1,Country2,Score1,Score2,Goals1,Times1,Goals2,Times2,Time,Date,Stadium,Attendance,Round,Referee,ExtraTime
-Czechoslovakia,Romania,2,1,"Antonín Puč,Oldřich Nejedlý","50,67",Ștefan Dobay,11,15:30,27/05/1934,Stadio Littorial,9000,Round of 16,Jean Langenus,N
-Hungary,Egypt,4,2,"Pál Teleki,Géza Toldi,Jenő Vincze,Géza Toldi","11,31,53,61","Abdulrahman Fawzi,Abdulrahman Fawzi","35,39",15:30,27/05/2026,Stadio Giorgio Ascarelli,9000,Round of 16,Rinaldo Barlassina,N
-Austria,France,3,2,"Matthias Sindelar,Anton Schall,Josef Bican","44,93,109","Jean Nicolas,Georges Verriest","18,116",15:30,27/05/2026,Stadio Benito Mussolini,16000,Round of 16,Johannes Van Moorsel,Y
+Czechoslovakia,Romania,2,1,"Antonín Puč,Oldřich Nejedlý","50,67",Ștefan Dobay,11,15:30,27/05/1934,Stadio Littorio,9000,Round of 16,Jean Langenus,N
+Hungary,Egypt,4,2,"Pál Teleki,Géza Toldi,Jenő Vincze,Géza Toldi","11,31,53,61","Abdulrahman Fawzi,Abdulrahman Fawzi","35,39",15:30,27/05/1934,Stadio Giorgio Ascarelli,9000,Round of 16,Rinaldo Barlassina,N
+Austria,France,3,2,"Matthias Sindelar,Anton Schall,Josef Bican","44,93,109","Jean Nicolas,Georges Verriest","18,116",15:30,27/05/1934,Stadio Benito Mussolini,16000,Round of 16,Johannes Van Moorsel,Y
+Switzerland,Netherlands,3,2,"Leopold Kielholz,Leopold Kielholz,André Abegglen","7,43,66","Kick Smit,Leen Vente","29,69",15:30,27/05/1934,Stadio San Siro,33000,Round of 16,Ivan Eklind,N
+Spain,Brazil,3,1,"José Iraragorri,José Iraragorri,Isidro Lángara","18,25,29",Leônidas,55,15:30,27/05/1934,Stadio Luigi Ferraris,21000,Round of 16,Alfred Birlem,N
+Italy,United States,7,1,"Angelo Schiavio,Raimundo Orsi,Angelo Schiavio,Giovanni Ferrari,Angelo Schiavio,Raimundo Orsi,Giuseppe Meazza","18,20,29,63,64,69,90",Aldo Donelli,57,15:30,27/05/1934,Stadio Nazionale PNF,25000,Round of 16,Rene Mercet,N
+Germany,Belgium,5,2,"Stanislaus Kobierski,Otto Siffling,Edmund Conen,Edmund Conen,Edmund Conen","25,49,66,70,87","Bernard Voorhoof,Bernard Voorhoof","29,43",15:30,27/05/1934,Stadio Giovanni Berta,8000,Round of 16,Francesco Mattea,N
+Sweden,Argentina,3,2,"Sven Jonasson,Sven Jonasson,Knut Kroon","9,67,79","Ernesto Belis,Alberto Galateo","4,48",15:30,27/05/1934,Stadio Littoriale,14000,Round of 16,Eugen Braun,N
