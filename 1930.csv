@@ -1,19 +1,19 @@
-Country1,Country2,Score1,Score2,Goals1,Times1,Goals2,Times2,Time,Date,Stadium,Attendance,Round,Referee
-United States,Belgium,3,0,"Bart McGhee,Tom Florie,Bert Patenaude","23,45,69","", "",18:30,13/07/1930,Estadio Gran Parque Central,18346,Group Stage,Jose Macias
-France,Mexico,4,1,"Lucien Laurent,Marcel Langiller,André Maschinot,André Maschinot","19,40,43,87","Juan Carreño","70",18:30,13/07/1930,Estadio Pocitos,4444,Group Stage,Domingo Lombardi
-Yugoslavia,Brazil,2,1,"Aleksandar Tirnanić,Ivan Bek","21,30",Preguinho,62,16:15,14/07/1930,Estadio Gran Parque Central,24059,Group Stage,Anibal Tejada
-Romania,Peru,3,1,"Adalbert Deșu,Constantin Stanciu,Nicolae Kovács","1,79,89","Luis de Souza Ferreira,Plácido Galindo_RED","70,75",18:20,14/07/1930,Estadio Pocitos,2549,Group Stage,Alberto Warnken
-Argentina,France,1,0,Luis Monti,81,,,19:30,15/07/1930,Estadio Gran Parque Central,23409,Group Stage,Gilberto Rego
-Chile,Mexico,3,0,"Carlos Vidal,Manuel Rosas_OG,Carlos Vidal","3,51,65",,,18:15,16/07/1930,Estadio Gran Parque Central,9249,Group Stage,Henry Cristophe
-Yugoslavia,Bolivia,4,0,"Ivan Bek,Blagoje Marjanović,Ivan Bek,Đorđe Vujadinović","60,65,67,85",,,16:15,17/07/1930,Estadio Gran Parque Central,18306,Group Stage,Francisco Mateucci
-United States,Paraguay,3,0,"Bert Patenaude,Bert Patenaude,Bert Patenaude","10,15,50",,,18:15,17/07/1930,Estadio Gran Parque Central,18306,Group Stage,Jose Macias
-Uruguay,Peru,1,0,Héctor Castro,60,,,18:00,18/07/1930,Estadio Centenario,57735,Group Stage,Jean Langenus
-Chile,France,1,0,Guillermo Subiabre,65,,,16:20,19/07/1930,Estadio Centenario,2000,Group Stage,Anibal Tejada
-Argentina,Mexico,6,3,"Guillermo Stábile,Adolfo Zumelzú,Guillermo Stábile,Francisco Varallo,Adolfo Zumelzú,Guillermo Stábile","8,12,17,53,55,80","Manuel Rosas,Manuel Rosas,Roberto Gayón","42,65,75",18:30,19/07/1930,Estadio Centenario,42100,Group Stage,Ulises Saucedo
-Brazil,Bolivia,4,0,"Moderato Wisintainer,Preguinho,Moderato Wisintainer,Preguinho","37,67,73,83",,,16:30,20/07/1930,Estadio Centenario,25466,Group Stage,Thomas Ballway
-Paraguay,Belgium,1,0,Luis Vargas Peña,40,,,18:30,20/07/1930,Estadio Centenario,12000,Group Stage,Ricardo Vallarino
-Uruguay,Romania,4,0,"Pablo Dorado,Héctor Scarone,Peregrino Anselmo,Pedro Cea","7,24,30,35",,,18:20,21/07/1930,Estadio Centenario,70022,Group Stage,Gilberto Rego
-Argentina,Chile,3,1,"Guillermo Stábile,Guillermo Stábile,Mario Evaristo","12,13,51,",Guillermo Subiabre,15,18:15,22/07/1930,Estadio Centenario,41459,Group Stage,Jean Langenus
-Argentina,United States,6,1,"Luis Monti,Alejandro Scopelli,Guillermo Stábile,Carlos Peucelle,Carlos Peucelle,Guillermo Stábile","20,56,69,80,85,87",Jim Brown,89,18:15,26/07/1930,Estadio Centenario,72886,Semi-final,Jean Langenus
-Uruguay,Yugoslavia,6,1,"Pedro Cea,Peregrino Anselmo,Peregrino Anselmo,Santos Iriarte,Pedro Cea,Pedro Cea","18,20,31,61,67,72",Đorđe Vujadinović,4,18:15,27/07/1930,Estadio Centenario,79867,Semi-final,Gilberto Rego
-Uruguay,Argentina,4,2,"Pablo Dorado,Pedro Cea,Santos Iriarte,Héctor Castro","12,57,68,89","Carlos Peucelle,Guillermo Stábile","20,37",17:45,30/07/2026,Estadio Centenario,68346,Final,Jean Langenus
+Country1,Country2,Score1,Score2,Goals1,Times1,Goals2,Times2,Time,Date,Stadium,Attendance,Round,Referee,ExtraTime
+United States,Belgium,3,0,"Bart McGhee,Tom Florie,Bert Patenaude","23,45,69","", "",18:30,13/07/1930,Estadio Gran Parque Central,18346,Group Stage,Jose Macias,N
+France,Mexico,4,1,"Lucien Laurent,Marcel Langiller,André Maschinot,André Maschinot","19,40,43,87","Juan Carreño","70",18:30,13/07/1930,Estadio Pocitos,4444,Group Stage,Domingo Lombardi,N
+Yugoslavia,Brazil,2,1,"Aleksandar Tirnanić,Ivan Bek","21,30",Preguinho,62,16:15,14/07/1930,Estadio Gran Parque Central,24059,Group Stage,Anibal Tejada,N
+Romania,Peru,3,1,"Adalbert Deșu,Constantin Stanciu,Nicolae Kovács","1,79,89","Luis de Souza Ferreira,Plácido Galindo_RC","70,75",18:20,14/07/1930,Estadio Pocitos,2549,Group Stage,Alberto Warnken,N
+Argentina,France,1,0,Luis Monti,81,,,19:30,15/07/1930,Estadio Gran Parque Central,23409,Group Stage,Gilberto Rego,N
+Chile,Mexico,3,0,"Carlos Vidal,Manuel Rosas_OG,Carlos Vidal","3,51,65",,,18:15,16/07/1930,Estadio Gran Parque Central,9249,Group Stage,Henry Cristophe,N
+Yugoslavia,Bolivia,4,0,"Ivan Bek,Blagoje Marjanović,Ivan Bek,Đorđe Vujadinović","60,65,67,85",,,16:15,17/07/1930,Estadio Gran Parque Central,18306,Group Stage,Francisco Mateucci,N
+United States,Paraguay,3,0,"Bert Patenaude,Bert Patenaude,Bert Patenaude","10,15,50",,,18:15,17/07/1930,Estadio Gran Parque Central,18306,Group Stage,Jose Macias,N
+Uruguay,Peru,1,0,Héctor Castro,60,,,18:00,18/07/1930,Estadio Centenario,57735,Group Stage,Jean Langenus,N
+Chile,France,1,0,Guillermo Subiabre,65,,,16:20,19/07/1930,Estadio Centenario,2000,Group Stage,Anibal Tejada,N
+Argentina,Mexico,6,3,"Guillermo Stábile,Adolfo Zumelzú,Guillermo Stábile,Francisco Varallo,Adolfo Zumelzú,Guillermo Stábile","8,12,17,53,55,80","Manuel Rosas,Manuel Rosas,Roberto Gayón","42,65,75",18:30,19/07/1930,Estadio Centenario,42100,Group Stage,Ulises Saucedo,N
+Brazil,Bolivia,4,0,"Moderato Wisintainer,Preguinho,Moderato Wisintainer,Preguinho","37,67,73,83",,,16:30,20/07/1930,Estadio Centenario,25466,Group Stage,Thomas Ballway,N
+Paraguay,Belgium,1,0,Luis Vargas Peña,40,,,18:30,20/07/1930,Estadio Centenario,12000,Group Stage,Ricardo Vallarino,N
+Uruguay,Romania,4,0,"Pablo Dorado,Héctor Scarone,Peregrino Anselmo,Pedro Cea","7,24,30,35",,,18:20,21/07/1930,Estadio Centenario,70022,Group Stage,Gilberto Rego,N
+Argentina,Chile,3,1,"Guillermo Stábile,Guillermo Stábile,Mario Evaristo","12,13,51,",Guillermo Subiabre,15,18:15,22/07/1930,Estadio Centenario,41459,Group Stage,Jean Langenus,N
+Argentina,United States,6,1,"Luis Monti,Alejandro Scopelli,Guillermo Stábile,Carlos Peucelle,Carlos Peucelle,Guillermo Stábile","20,56,69,80,85,87",Jim Brown,89,18:15,26/07/1930,Estadio Centenario,72886,Semi-final,Jean Langenus,N
+Uruguay,Yugoslavia,6,1,"Pedro Cea,Peregrino Anselmo,Peregrino Anselmo,Santos Iriarte,Pedro Cea,Pedro Cea","18,20,31,61,67,72",Đorđe Vujadinović,4,18:15,27/07/1930,Estadio Centenario,79867,Semi-final,Gilberto Rego,N
+Uruguay,Argentina,4,2,"Pablo Dorado,Pedro Cea,Santos Iriarte,Héctor Castro","12,57,68,89","Carlos Peucelle,Guillermo Stábile","20,37",17:45,30/07/2026,Estadio Centenario,68346,Final,Jean Langenus,N
